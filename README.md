@@ -6,7 +6,11 @@ http://summit.theodi.org/events/creative-lab-workshop/
 
 Me (Andrew Wilson)
 http://studiofor.co/
-http://whoownsmyneighbourhood.org.uk/ and open data project I did with Kirklees Council in 2010.
+
+
+http://whoownsmyneighbourhood.org.uk/ an open data project I did with Kirklees Council in 2010.
+
+
 Who Owns My Neighbourhood code on github: https://github.com/foldup-cic/whoownsmyneighbourhood
 
 

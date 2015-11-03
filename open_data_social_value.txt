@@ -51,7 +51,7 @@ Interesting that the value having local definitions of what challenges get prior
 
 * Data in Culture session
 http://summit.theodi.org/events/data-as-culture-panel/
-The boss of Somerset House they are mounting a data exhibition because data is "a revolution in our culture". 
+The boss of Somerset House said they are mounting a data exhibition because data is "a revolution in our culture". 
 This is what wikipedia says a revolution is (https://en.wikipedia.org/wiki/Revolution):
 "A revolution (from the Latin revolutio, "a turn around") is a fundamental change in power or organizational structures that takes place in a relatively short period of time. Aristotle described two types of political revolution:
 Complete change from one constitution to another
