@@ -1,37 +1,64 @@
 WHAT IS OPEN DATA?
-coming shortly
+https://en.wikipedia.org/wiki/Open_data
+other definitions are available
 
 WHAT IS SOCIAL VALUE?
-coming shortly
+as a good enough definition for the time being, maybe we could define socially valuable by what it's not. 
+Banking, for instance, is socially useless: http://www.telegraph.co.uk/finance/newsbysector/banksandfinance/6096546/City-is-too-big-and-socially-useless-says-Lord-Turner.html
 
 THE ARTS AS SOCIAL VALUE
-coming shortly
+too big a question for me
 
 CONFERENCE SESSION NOTES
 
-Keynote session
+* Keynote session
+http://summit.theodi.org/events/introduction-to-generation-open/
+http://summit.theodi.org/events/keynote-speech/
 
-Improving society & government efficiency
+The most interesting talk in the keynote session was from Hetan Shah, the chief executive of the 188 year old Royal Statistical Society. Interestingly for such an august body, his was one of the parts of the keynote session with a political edge: he raised the question of open data in the private sector, given that so many public services are now privatised. The other political part was Neelie Kroes championing the role of the state in fostering innovation. 
+http://www.rss.org.uk/RSS/Influencing_Change/Data_democracy/Data_manifesto/RSS/Influencing_Change/Data_democracy_sub/Data_manifesto.aspx?hkey=5dd70207-82e7-4166-93fd-bcf9a2a1e496
+
+* Improving society & government efficiency session
 
 presentsation - Using open data to level up common knowledge of the local area
 Jamie White, Trafford Intelligence Lab 
 http://www.infotrafford.org.uk/lab/blog/all-about-the-lab
 
 This presentation was one of the best I've heard on the process of creating socially valuable outcomes from open data. 
-Very quickly off the top of my head, these are the things I'd abstract from what Trafford Intelligence Lab are doing that are making it work:
+Very quickly off the top of my head, these are the things I'd abstract from what Trafford Intelligence Lab are doing:
 
 1. People
-more detail to follow 
+there was a genuine and infectious enthusiasm for making meaningful things happen, and this energy must at least have helped to build some momentum in the early stages. Jamie White seemed satisfied that his group (of only 3 people) had the right range of skills at least to make a start, two data analysts and a javascript and html developer (if I remember rightly).
 
-2. embedded but in a semi detached, in-between space
-more detail to follow 
+2.  outcomes socially defined in Trafford
+within that limitation of targets framed by Whitehall, Westminster and The City, the choice of projects and emphasis seemed to reflect priorities and interests of people in Trafford. 
 
-3. granular
-more detail to follow 
+3. embedded but in a semi detached, in-between space
+The group started out working in a room in a library, then in a housing association, so they were within the council formally, but with some distance, and that might provide licence to experiment?
 
-4. time frames
-more detail to follow 
+4. granular
+Local knowledge, experience and contacts meant they were able to care enough about, understand and take insights from the data at a very granular level, and this then led to interventions that could be made right down at the level of a single street. 
 
-5. local-ness
+5. short feedback loops
+for example generating buy-in and support from local politicians because they could knock up a visualisation of where people came from to do the Trafford marathon, which helped politicians explain spending choices. 
+
+6. time frames
+A year so far. 10 years should be the minimum time frame. 
+
+7. local-ness
+Interesting that the value having local definitions of what challenges get priority was supported in the Citizen Empowerment session, with experience from Africa: "local solutions are often more successful" Loren Treisman, Indigo Trust.
+
+
+* Data in Culture session
+http://summit.theodi.org/events/data-as-culture-panel/
+The boss of Somerset House they are mounting a data exhibition because data is "a revolution in our culture". 
+This is what wikipedia says a revolution is (https://en.wikipedia.org/wiki/Revolution):
+"A revolution (from the Latin revolutio, "a turn around") is a fundamental change in power or organizational structures that takes place in a relatively short period of time. Aristotle described two types of political revolution:
+Complete change from one constitution to another
+Modification of an existing constitution.[1]"
+
+"Thinking a bit less about growth and more about reflection" an artist from the same session.
+
+
 
 
