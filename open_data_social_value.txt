@@ -7,7 +7,6 @@ coming shortly
 THE ARTS AS SOCIAL VALUE
 coming shortly
 
-
 CONFERENCE SESSION NOTES
 
 Keynote session
@@ -17,5 +16,22 @@ Improving society & government efficiency
 presentsation - Using open data to level up common knowledge of the local area
 Jamie White, Trafford Intelligence Lab 
 http://www.infotrafford.org.uk/lab/blog/all-about-the-lab
+
+This presentation was one of the best I've heard on the process of creating socially valuable outcomes from open data. 
+Very quickly off the top of my head, these are the things I'd abstract from what Trafford Intelligence Lab are doing that are making it work:
+
+1. People
+more detail to follow 
+
+2. embedded but in a semi detached, in-between space
+more detail to follow 
+
+3. granular
+more detail to follow 
+
+4. time frames
+more detail to follow 
+
+5. local-ness
 
 
